@@ -1,0 +1,126 @@
+[ 2017-12-07T09:02:27+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A02091001'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0156s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '398' AND '403'  [ RunTime:0.7840s ]
+
+[ 2017-12-07T09:02:31+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180203'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '46' AND '48'  [ RunTime:0.2828s ]
+
+[ 2017-12-07T09:02:35+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180301'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '51' AND '53'  [ RunTime:0.2204s ]
+
+[ 2017-12-07T09:03:47+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A02091001'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '398' AND '403'  [ RunTime:0.0372s ]
+
+[ 2017-12-07T09:03:50+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180203'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0156s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '46' AND '48'  [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:54+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180301'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '51' AND '53'  [ RunTime:0.0156s ]
+
+[ 2017-12-07T09:06:44+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A02091001'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '398' AND '403'  [ RunTime:0.0312s ]
+
+[ 2017-12-07T09:06:47+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180203'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '46' AND '48'  [ RunTime:0.0156s ]
+
+[ 2017-12-07T09:06:51+08:00 ] 127.0.0.1 /ecservice/getProductPool
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductPool\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT `cat_id` FROM `ecs_category` WHERE `categoryId` = 'A0206180301'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_id` FROM `ecs_goods` WHERE `cat_id` BETWEEN '51' AND '53'  [ RunTime:0.0156s ]
+

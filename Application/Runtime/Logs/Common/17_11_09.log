@@ -1,0 +1,24 @@
+[ 2017-11-09T08:50:14+08:00 ] 127.0.0.1 /ecservice/getProductInventory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:GetProductInventory
+
+[ 2017-11-09T11:20:26+08:00 ] 127.0.0.1 /ecservice/queryCountPrice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:QueryCountPrice
+
+[ 2017-11-09T12:10:47+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:CreateOrder
+
+[ 2017-11-09T13:38:04+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:CreateOrder
+

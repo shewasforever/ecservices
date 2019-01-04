@@ -1,0 +1,18 @@
+[ 2017-11-16T08:47:24+08:00 ] 127.0.0.1 /ecservice/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetAccessToken\Controller\IndexController.class.php 第 52 行.
+
+[ 2017-11-16T13:48:02+08:00 ] 127.0.0.1 /ecservice/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetAccessToken\Controller\IndexController.class.php 第 52 行.
+

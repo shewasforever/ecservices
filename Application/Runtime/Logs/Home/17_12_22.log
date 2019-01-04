@@ -1,0 +1,32 @@
+[ 2017-12-22T09:20:50+08:00 ] ::1 /ecservice/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.1060s ]
+SQL: SELECT `cat_id`,`goods_id`,`goods_name` FROM `ecs_goods` WHERE `goods_name` LIKE '%激光%打印机%' AND `cat_id` IN ('208','372') AND `goods_id` = 57170  [ RunTime:0.0400s ]
+SQL: UPDATE `ecs_goods` SET `cat_id`='419' WHERE `goods_name` LIKE '%激光%打印机%' AND `cat_id` IN ('208','372') AND `goods_id` = 57170 [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.027001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027001s ]
+
+[ 2017-12-22T09:20:57+08:00 ] ::1 /ecservice/home/index/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:getProductCategory
+
+[ 2017-12-22T09:21:28+08:00 ] ::1 /ecservice/home/index/GetProductOnShelvesInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:GetProductOnShelvesInfo
+

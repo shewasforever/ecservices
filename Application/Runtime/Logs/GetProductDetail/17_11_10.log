@@ -1,0 +1,825 @@
+[ 2017-11-10T08:57:39+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0156s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '114'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T08:57:40+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0156s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:41+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0156s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:41+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0156s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:42+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:43+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:43+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '112'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T08:57:44+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '176'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T08:57:45+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0156s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7016'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0000s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '125'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T09:10:49+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '114'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T09:10:49+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:50+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:51+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:51+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:52+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:53+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '112'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T09:10:54+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '176'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:10:55+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7016'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '125'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T09:25:37+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '114'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T09:25:37+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:38+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:39+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:39+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:40+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0040s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:41+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '112'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T09:25:41+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0050s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '176'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0040s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T09:25:42+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7016'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '125'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T15:36:22+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '114'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T15:36:23+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:23+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:24+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:25+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0050s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:25+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '171'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:26+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '112'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T15:36:27+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T15:36:28+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7016'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '125'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T16:30:16+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '114'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T16:30:16+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0060s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:17+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:18+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '166'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:18+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0040s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:19+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '171'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:20+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '112'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T16:30:21+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '176'  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '0'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 69 行.
+
+[ 2017-11-10T16:30:21+08:00 ] 127.0.0.1 /ecservice/getProductDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 43 行.
+SQL: SELECT * FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+SQL: SELECT `categoryId` FROM `ecs_category` INNER JOIN ecs_goods on ecs_category.cat_id = ecs_goods.cat_id  WHERE `goods_id` = '7016'  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\GetProductDetail\Controller\IndexController.class.php 第 51 行.
+SQL: SHOW COLUMNS FROM `ecs_brand` [ RunTime:0.0050s ]
+SQL: SELECT `brand_name` FROM `ecs_brand` WHERE `brand_id` = '125'  [ RunTime:0.0000s ]
+

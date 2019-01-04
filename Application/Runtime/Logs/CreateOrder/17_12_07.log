@@ -1,0 +1,615 @@
+[ 2017-12-07T08:55:10+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:02:28+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0468s ]
+
+[ 2017-12-07T09:02:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:31+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:32+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:33+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:35+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:36+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:38+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:02:39+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:48+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090348'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090348','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','4450.00','1') [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '68'  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0156s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('221','68','ECS000068','TCL D55A9C 55吋 曲面电视 4K超高清超薄智能网络LED液晶曲屏电视机','1','4450.00') [ RunTime:0.0312s ]
+
+[ 2017-12-07T09:03:49+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090349'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090349','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','3399.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '22228'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('222','22228','ES1502513255','小米（MI）小米电视4A 标准版 55英寸 HDR 2GB+8GB 四核64位高性能处理器 4K超高清智能语音网络液晶平板电视（L55M5-AZ）','1','3399.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:50+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090350'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090350','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','2399.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0156s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '22229'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('223','22229','ES1502513256','小米（MI）小米电视4A 标准版 49英寸 HDR 2GB+8GB 四核64位高性能处理器 全高清智能语音网络液晶平板电视（L49M5-AZ）','1','2399.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:51+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090351'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090351','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','2599.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '85'  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('224','85','ECS000085','Haier/海尔 KFR-36GW/10EBB13U1定频大1.5匹智能云冷暖挂机空调','1','2599.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:52+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090352'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090352','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','3399.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '20439'  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('225','20439','ES1502512394','格力（GREE）正1.5匹 变频 品圆 冷暖 壁挂式空调 KFR-35GW/(35592)FNhDa-A3','1','3399.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:54+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090354'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090354','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7999.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '20440'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('226','20440','ES1502512395','海尔（Haier）3匹 变频 冷暖 二级能效 自清洁 除PM2.5 圆柱空调柜机 KFR-72LW/09UCP22AU1','1','7999.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:55+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090355'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090355','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','2599.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '92'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0156s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('227','92','ECS000092','智能变频 小天鹅 TG80V20WX 8公斤KG 家用全自动滚筒洗衣机','1','2599.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:57+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090357'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090357','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','2699.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '18237'  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('228','18237','ES1502511667','海尔（Haier) EG8012B39SU1  8公斤变频滚筒洗衣机 京东微联智能APP控制','1','2699.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:03:58+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = '20171207090358'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171207090358','章小华','6','140','706','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','288.00','1') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0000s ]
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '18238'  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('229','18238','ES1502511667','【京仓速发】志高（CHIGO）XPB22-130S 2.2公斤小型宝宝双桶半自动迷你洗衣机 浅蓝色','1','288.00') [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:04:42+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:04:43+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:04:43+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:04:43+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:04:44+08:00 ] ::1 /ecservice/createorder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-12-07T09:05:21+08:00 ] ::1 /ecservice/CreateOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-12-07T09:06:45+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0156s ]
+
+[ 2017-12-07T09:06:46+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:47+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:49+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:50+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:51+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:53+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:54+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:06:55+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-12-07T09:07:24+08:00 ] ::1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-07T09:36:45+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0280s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0080s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:36:45+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:42:26+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0100s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:42:26+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:43:00+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:43:00+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:48:37+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:48:37+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:49:39+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:49:39+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 48 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 72 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'order_sn' cannot be null
+
+[ 2017-12-07T09:54:28+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-07T09:54:28+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-07T09:55:14+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 12 行.
+
+[ 2017-12-07T09:55:14+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tradeNo D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 12 行.
+
+[ 2017-12-07T09:57:14+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 49 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = 'HeBei20171206172104001'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 73 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'xiangcun' cannot be null
+
+[ 2017-12-07T09:57:14+08:00 ] 127.0.0.1 /ecservice/index.php/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 34 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: townId D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 49 行.
+SQL: SELECT `order_id` FROM `ecs_order_info` WHERE `order_sn` = 'HeBei20171206172104001'  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 73 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'xiangcun' cannot be null
+

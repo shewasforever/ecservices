@@ -1,0 +1,1837 @@
+[ 2017-11-11T08:51:41+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0156s ]
+
+[ 2017-11-11T08:51:41+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:42+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:43+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:43+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0156s ]
+
+[ 2017-11-11T08:51:44+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:45+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:46+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T08:51:46+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0000s ]
+
+[ 2017-11-11T10:30:24+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+
+[ 2017-11-11T10:30:24+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T10:30:25+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T10:30:26+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T10:30:27+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T10:30:27+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T10:30:28+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T10:30:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T10:30:30+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T10:44:47+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.026001s ]
+
+[ 2017-11-11T11:50:14+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:50:14+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:50:15+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:50:16+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:50:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:50:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:50:18+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:50:19+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:50:20+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:05+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+
+[ 2017-11-11T11:52:06+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T11:52:07+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:08+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:08+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:09+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:10+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:11+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T11:52:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:23:48+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+
+[ 2017-11-11T12:23:48+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:23:49+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:23:50+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:23:50+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:23:51+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:23:52+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:23:53+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:23:54+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:28:09+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-11T12:28:57+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:28:58+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:28:59+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:00+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:00+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:01+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:02+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:03+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+
+[ 2017-11-11T12:29:04+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+
+[ 2017-11-11T12:29:30+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-11T15:19:26+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111151926','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0950s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 82 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:20:50+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111152050','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 82 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:28:40+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111152840','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:30:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:13+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+
+[ 2017-11-11T15:30:14+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:15+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:16+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:30:18+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+
+[ 2017-11-11T15:34:39+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111153439','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-11T15:37:15+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111153715','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:46:32+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111154632','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:49:20+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111154920','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:50:01+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155001','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:51:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155111','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+
+[ 2017-11-11T15:51:41+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155141','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('24','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-11T15:55:28+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155528','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('25','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T15:55:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155529','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('26','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T15:55:30+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0370s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155530','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('27','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T15:55:31+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111155531','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('28','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T15:55:32+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111155531' for key 'order_sn'
+
+[ 2017-11-11T16:16:02+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111161602','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('29','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:16:03+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111161603','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('30','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:16:04+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111161604','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('31','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:16:05+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111161605','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('32','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:16:05+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111161605' for key 'order_sn'
+
+[ 2017-11-11T16:20:20+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111162019','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('33','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:20:20+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111162020','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('34','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:20:21+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111162021','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('35','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:20:22+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111162022','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('36','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:20:23+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111162023','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','1649.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('37','168','ECS000168','华硕 飞马10 平板电脑 10.1英寸（ANDROID 6.0 64位 四核 2GB内存 32GB存储 IPS广视角）暗灰色','1','1649.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:20:23+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111162023' for key 'order_sn'
+
+[ 2017-11-11T16:56:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0340s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165616','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('38','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:56:17+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165617','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('39','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:56:18+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165618','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('40','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:56:19+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165619','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('41','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:56:20+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165620','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','1649.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('42','168','ECS000168','华硕 飞马10 平板电脑 10.1英寸（ANDROID 6.0 64位 四核 2GB内存 32GB存储 IPS广视角）暗灰色','1','1649.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:56:21+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165621','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','6900.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '171'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('43','171','ECS000171','E人E本K8S 安卓商务通话平板电脑 全网通4G 8英寸 硬盘：32G 黑色','1','6900.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:56:22+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165622','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','2799.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '7'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('44','7','ECS000007','联想（ThinkCentre）E73 10C0A03ECD台式办公电脑整机','1','2799.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:56:23+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165623','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9069.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '176'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('45','176','ECS000176','ThinkCentre M8600T （I7-6700/8GB/2TB/2GB独显/WIN7HB/19.0英寸）','1','9069.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T16:56:24+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165624','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5099.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '7016'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('46','7016','ES1502500954','联想（Lenovo）天逸5060商用台式电脑（i5-6400 8G 1T GT730 2G 独显 WiFi 三年上门 win10 office）21.5英寸','1','5099.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:58:52+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165852','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('47','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:58:53+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111165853','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('48','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T16:58:54+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111165853' for key 'order_sn'
+
+[ 2017-11-11T18:01:11+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180111','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('49','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180112','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('50','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:13+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180113','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('51','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:01:14+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180113' for key 'order_sn'
+
+[ 2017-11-11T18:01:37+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180137','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('52','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:38+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180138','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('53','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:01:39+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180139','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('54','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:40+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180140','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('55','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:40+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180140' for key 'order_sn'
+
+[ 2017-11-11T18:01:51+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180151','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('56','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:51+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180151' for key 'order_sn'
+
+[ 2017-11-11T18:01:55+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180155','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('57','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:01:56+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180156','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('58','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:57+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180157','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('59','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:58+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180158','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('60','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:01:59+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180159','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','1649.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '168'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('61','168','ECS000168','华硕 飞马10 平板电脑 10.1英寸（ANDROID 6.0 64位 四核 2GB内存 32GB存储 IPS广视角）暗灰色','1','1649.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:01:59+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180159' for key 'order_sn'
+
+[ 2017-11-11T18:02:00+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180200','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('62','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:02:01+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0100s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180201','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('63','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:02:02+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180202','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('64','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:02:03+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180203','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('65','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:02:03+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180203' for key 'order_sn'
+
+[ 2017-11-11T18:03:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180329','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('66','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:03:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180329' for key 'order_sn'
+
+[ 2017-11-11T18:03:36+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180336','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('67','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:03:37+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180337','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('68','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:03:38+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180338','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('69','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:03:39+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180339','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('70','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:03:39+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180339' for key 'order_sn'
+
+[ 2017-11-11T18:04:03+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0120s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180403','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('71','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:04:04+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180404','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5399.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '172'  [ RunTime:0.0010s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('72','172','ECS000172','联想（ThinkPad） E470c（20H3A014CD）14英寸笔记本电脑（i5-6200U 8G 256GSSD Win10）黑色','1','5399.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:04:05+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180405','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','9369.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '178'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('73','178','ECS000178','Thinkpad X270（0DCD) 12.5英寸轻薄笔记本电脑（i5-6200U 8G 1T Win10 3+3便携双电池）黑色','1','9369.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:04:06+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180406','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','7025.00','1') [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '166'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('74','166','ECS000166','华为 MateBook(HZ-W19) 12英寸平板二合一笔记本电脑 (INTEL CORE M5 4G内存 128G存储 键盘 WIN10)太空灰','1','7025.00') [ RunTime:0.0000s ]
+
+[ 2017-11-11T18:04:06+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180406' for key 'order_sn'
+
+[ 2017-11-11T18:05:15+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+SQL: INSERT INTO `ecs_order_info` (`order_sn`,`consignee`,`province`,`city`,`district`,`xiangcun`,`address`,`tel`,`mobile`,`email`,`goods_amount`,`pay_id`) VALUES ('20171111180515','章小华','6','0','0','0','苏州市张家港市杨舍镇沙洲湖创业园8号','0512-52125125','13962212123','test@qq.com','5600.00','1') [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant eq - assumed 'eq' D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 81 行.
+SQL: SELECT `goods_sn`,`goods_name` FROM `ecs_goods` WHERE `goods_id` = '6'  [ RunTime:0.0000s ]
+SQL: INSERT INTO `ecs_order_goods` (`order_id`,`goods_id`,`goods_sn`,`goods_name`,`goods_number`,`goods_price`) VALUES ('75','6','ECS000006','ThinkPad E570 20H5A05TCD 七代I5 8G 128G+500G 商务笔记本电脑','1','5600.00') [ RunTime:0.0010s ]
+
+[ 2017-11-11T18:05:16+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `ecs_order_goods` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `ecs_goods` [ RunTime:0.0110s ]
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '20171111180515' for key 'order_sn'
+

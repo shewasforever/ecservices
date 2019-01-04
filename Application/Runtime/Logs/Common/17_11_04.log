@@ -1,0 +1,18 @@
+[ 2017-11-04T10:59:04+08:00 ] ::1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:GetProductCategory
+
+[ 2017-11-04T14:57:34+08:00 ] 127.0.0.1 /ecservice/appkey=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Appkey=123
+
+[ 2017-11-04T15:27:54+08:00 ] 127.0.0.1 /ecservice/mod=home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Mod=home
+

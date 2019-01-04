@@ -1,0 +1,180 @@
+[ 2017-11-16T08:47:27+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.1140s ]
+
+[ 2017-11-16T08:47:28+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T08:47:29+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T08:47:30+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T08:47:31+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T08:47:32+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0060s ]
+
+[ 2017-11-16T08:47:33+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0060s ]
+
+[ 2017-11-16T08:47:34+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T08:47:35+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0060s ]
+
+[ 2017-11-16T13:48:04+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0330s ]
+
+[ 2017-11-16T13:48:05+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:06+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:07+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:08+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:09+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:10+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0080s ]
+
+[ 2017-11-16T13:48:11+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+
+[ 2017-11-16T13:48:12+08:00 ] 127.0.0.1 /ecservice/createOrder
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\CreateOrder\Controller\IndexController.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `ecs_order_info` [ RunTime:0.0070s ]
+

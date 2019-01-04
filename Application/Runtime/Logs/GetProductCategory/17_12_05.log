@@ -1,0 +1,36 @@
+[ 2017-12-05T15:48:38+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+
+[ 2017-12-05T16:14:04+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0050s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+
+[ 2017-12-05T17:44:16+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+

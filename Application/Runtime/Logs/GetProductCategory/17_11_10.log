@@ -1,0 +1,110 @@
+[ 2017-11-10T08:57:39+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0000s ]
+
+[ 2017-11-10T09:10:49+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T09:25:36+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T15:33:58+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.category' doesn't exist
+
+[ 2017-11-10T15:35:26+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.ecs_category' doesn't exist
+
+[ 2017-11-10T15:35:28+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.ecs_category' doesn't exist
+
+[ 2017-11-10T15:35:29+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.ecs_category' doesn't exist
+
+[ 2017-11-10T15:35:29+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.ecs_category' doesn't exist
+
+[ 2017-11-10T15:36:22+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0010s ]
+
+[ 2017-11-10T16:30:15+08:00 ] 127.0.0.1 /ecservice/getProductCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: appkey D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `ecs_category` [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant NEQ - assumed 'NEQ' D:\phpStudy\WWW\ecservice\Application\GetProductCategory\Controller\IndexController.class.php 第 42 行.
+SQL: SELECT `cat_name`,`categoryId` FROM `ecs_category` WHERE `categoryId` <> '000000'  [ RunTime:0.0000s ]
+
